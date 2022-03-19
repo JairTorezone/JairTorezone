@@ -27,7 +27,7 @@
 
  <br>
  
- ## 👨🏽‍🦲&nbsp;Rede Social
+ ## 👨🏽‍🦲&nbsp;Social Network
  
 <div> 
   <a href="https://instagram.com/JairTorezone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
