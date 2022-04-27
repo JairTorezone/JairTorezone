@@ -4,8 +4,8 @@
 <ul>
   <li>🎓   I'm graduated in Analysis and systems development  </li>
   <li> 🚀  I’m currently studying on schols DevSuperior, Sofbtlue, B7web and Rocketseat  </li>
-  <li> 📝  I’m currently learning about HTML, CSS, JavaScript, React, Java and framework Spring Boot </li>
   <li> 💻  I’m looking for an opportunity as a junior developer </li>
+  <li> 📝  I’m currently learning about HTML, CSS, JavaScript, React, Java and framework Spring Boot </li>
 </ul>
 <br><br>
 
