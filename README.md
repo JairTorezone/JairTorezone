@@ -1,6 +1,13 @@
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Jair Torezone</h1>  <br>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="25px"> I am Jair Torezone</h1>  <br>
 
+<ul>
+  <li>🎓   I'm graduated in Analysis and systems development  </li>
+  <li> 🚀  I’m currently studying on schols DevSuperior, Sofbtlue, B7web and Rocketseat  </li>
+  <li> 📝  I’m currently learning about HTML, CSS, JavaScript, React, Java and framework Spring Boot </li>
+  <li> 💻  I’m looking for an opportunity as a junior developer </li>
+</ul>
+<br><br>
 
 
 <div>
