@@ -1,11 +1,11 @@
 
-<h1> 👋 I am Jair Torezone</h1>  <br>
+<h1> 👋 Olá, sou Jair Torezone </h1>  <br>
 
 <ul>
-  <li>🎓   I'm graduated in Analysis and systems development  </li>
-  <li> 🚀  I’m currently studying on schols DevSuperior, Sofbtlue, B7web and Rocketseat  </li>
-  <li> 💻  I’m looking for an opportunity as a junior developer </li>
-  <li> 📝  I’m currently learning about HTML, CSS, JavaScript, React, Java and framework Spring Boot </li>
+  <li>🎓   Sou formado em Analise e Desenvolvimento de Sistemas  </li>
+  <li> 🚀  Habilidades em HTML, CSS, Javascript, React.js, SQL, Git Github </li>
+  <li> 💻  Em busca de uma oportunidade como desenvolvedor web </li>
+  <li> 📝  Estou aprendendo sobre: Java e framework Spring Boot </li>
 </ul>
 <br><br>
 
@@ -30,14 +30,12 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="CSS" height="60"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
-  
-
 
 </div>
 
  <br>
  
- ## 👨🏽‍🦲&nbsp;Social Network
+ ## 👨 Social Network
  
 <div> 
   <a href="https://instagram.com/JairTorezone" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -46,7 +44,4 @@
   <a href="https://www.linkedin.com/in/jair-torezone/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 
-  <!-- CÓDIGO COBRINHA -->
- ![Snake animation](https://github.com/JairTorezone/JairTorezone/blob/output/github-contribution-grid-snake.svg) 
 
-</div>
