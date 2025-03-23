@@ -3,9 +3,8 @@
 
 <ul>
   <li>🎓   Sou formado em Analise e Desenvolvimento de Sistemas  </li>
-  <li> 🚀  Habilidades em HTML, CSS, Javascript, React.js, SQL, Git Github </li>
-  <li> 💻  Em busca de uma oportunidade como desenvolvedor web </li>
-  <li> 📝  Estou aprendendo sobre: Java e framework Spring Boot </li>
+  <li> 🚀  Habilidades em HTML, CSS, Javascript, Python, Flask, React.js, Node.js SQL, Git Github, Power shell </li>
+  <li> 📝  Atualmente, estou aprofundando meus estudos em Inteligência Artificial (IA) com Python, explorando bibliotecas como TensorFlow, PyTorch e scikit-learn. </li>
 </ul>
 <br><br>
 
